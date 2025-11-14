@@ -2,8 +2,8 @@
 
 A Power BI dashboard providing insights into employee demographics, hiring trends, retention, turnover, and department-level distribution.
 
-![Dashboard](<img width="1466" height="819" alt="image" src="https://github.com/user-attachments/assets/8b153a5d-746c-47b0-bd5f-6eb419373408" />
-)
+[Dashboard]
+(<img width="1466" height="819" alt="Screenshot_14" src="https://github.com/user-attachments/assets/b7898fd1-cc81-4cb1-9d73-7239edb2e23b" />)
 
 ## Highlights
 - 1000 hires, 85 separations, 915 net employees  
